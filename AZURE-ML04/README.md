@@ -7,4 +7,4 @@
 
 Segui este guia https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html#upload-documents-to-azure-storage , com uma ou outra modificação no output de enriquecimento dos dados (passo 5, enriquecimento de dados).
 
-Achei o procedimento tranquilo, e é impressionante como dá para relacionar tudo ali dentro do storage para os serviços de indexação e de IA relativamente fácil.
+Achei o procedimento tranquilo, e é impressionante como dá para relacionar tudo ali dentro do storage para os serviços de indexação e de IA relativamente fácil e obter uma funcionalidade bem complexa.
